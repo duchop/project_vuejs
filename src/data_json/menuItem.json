@@ -1,0 +1,9 @@
+{
+    "menu-items": [
+        { "id": 1, "name": "画面A", "description": "ooに関する作業を行います。", "icon-base64": "※下記A" },
+        { "id": 2, "name": "画面B", "description": "ppの状況を把握できます。", "icon-base64": "※下記B" },
+        { "id": 3, "name": "画面C", "description": "このアプリによりqqの変更が可能です。", "icon-base64": "※下記C" },
+        { "id": 4, "name": "画面D", "description": "rrについてモニタリングを行います。", "icon-base64": "※下記D" },
+        { "id": 5, "name": "画面E", "description": "ss状況をブラウザ上で確認ができます。", "icon-base64": "※下記E" }
+    ]
+}
